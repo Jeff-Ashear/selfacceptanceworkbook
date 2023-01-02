@@ -1,0 +1,11 @@
+nav {
+    position: fixed;
+
+    background-color: rgb(26, 39, 112);
+    height: 5vh;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
