@@ -9,3 +9,12 @@ nav {
 h1 {
     text-align: center;
 }
+
+/* title */
+#title {
+    color: #21A1A1;
+}
+
+.navbar.navbar-nav.nav-item.nav-link {
+    color: #21A1A1;
+}
