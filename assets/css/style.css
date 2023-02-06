@@ -11,8 +11,15 @@ h1 {
 }
 
 /* title */
-#title {
+#originalGreen {
     color: #21A1A1;
+}
+
+#newGreen {
+    color: #20c997;
+}
+#newGreen1 {
+    color: #1aa179;
 }
 
 .navbar.navbar-nav.nav-item.nav-link {
