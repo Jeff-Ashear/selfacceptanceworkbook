@@ -1,13 +1,15 @@
 nav {
     position: fixed;
 
-    background-color: rgb(26, 39, 112);
-    height: 5vh;
+    color: #20c997;
+    /* height: 5vh; */
     color: white;
+
+    border-bottom: solid rgb(181, 179, 179) 3px;
 }
 
-.navbar {
-    height: 3.5rem;
+.nav-brand {
+    font-weight: 800;
 }
 
 h1 {
