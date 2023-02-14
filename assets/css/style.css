@@ -12,11 +12,15 @@ nav {
     font-weight: 800;
 }
 
+.nav-link:hover {
+    border: solid #20c997 2px;
+}
+
+/* title */
 h1 {
     text-align: center;
 }
 
-/* title */
 #originalGreen {
     color: #21A1A1;
 }
