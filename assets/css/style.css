@@ -14,6 +14,7 @@ nav {
 
 .nav-link:hover {
     border: solid #20c997 2px;
+    border-radius: 5px;
 }
 
 /* title */
