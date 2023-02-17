@@ -20,6 +20,9 @@ nav {
 /* title */
 h1 {
     text-align: center;
+    margin-top: 2.5vh;
+
+    font-weight: 700;
 }
 
 #originalGreen {
