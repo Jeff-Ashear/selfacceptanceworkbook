@@ -18,8 +18,10 @@ nav {
 }
 
 /* title */
-h1 {
+.heading {
     text-align: center;
+}
+h1 {
     margin-top: 2.5vh;
 
     font-weight: 700;
