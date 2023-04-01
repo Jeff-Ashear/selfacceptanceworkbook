@@ -11,4 +11,18 @@
 
 @media screen and (min-width: 767px) {
 
+    iframe {
+        text-align: center;
+        width: 90vw;
+    }
+
+    body {
+        background-color: red;
+    }
+
+}
+
+iframe {
+    text-align: center;
+    width: 90vw;
 }
